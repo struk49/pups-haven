@@ -33,4 +33,17 @@ I decided to go with a logo and menu at the top of the page. A footer and the co
 7. Nest hub
 8. Nest Hub Max
 
+# User Experience(UX)
+### User Stories
+1. As a first time user. I want to easily understand the main purpose of the site.
+2. As a first time user. I want to be able to navigate and find what i'm looking for.
+
+### Design
+Colour scheme
+The colur scheme is fluent throughout the site. 
+Brown, black, white and bisque are the colours used. 
+
+
+
+
 
