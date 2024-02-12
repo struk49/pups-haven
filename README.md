@@ -10,3 +10,8 @@
 3. Where can i go from here?
 
 ```I believe the site can be used with signal trail learnin. The site is easy to use and the user can see where a link will take them.```
+
+### When designing the site, i drew up some wireframes. This was so i could get an idea of what the site might look like.
+I decided to go with a logo and menu at the top of the page. A footer and the contents in the middle. The images used on the home page i made myself using Canva. The hpme page has a paragragh about the product,. Some images shoeing more information about the product and an offer. 
+![Screenshot 2024-02-12 14 38 13](https://github.com/struk49/kpflexboxchallengeone/assets/115653854/95630c73-71cd-4f63-89f5-bfac872d9848)
+
