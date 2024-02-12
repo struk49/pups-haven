@@ -23,3 +23,14 @@ I decided to go with a logo and menu at the top of the page. A footer and the co
 
 ![image](https://github.com/struk49/kpflexboxchallengeone/assets/115653854/238c5c21-0537-412d-8d81-e42560f8126e)
 
+### The site is responsive and works on most device.I have tested the site on some of these:-
+1. Iphone Se
+2. Iphone SR
+3. Iphone 12 Pro
+4. Pixel 5
+5. Ipad Air
+6. Ipad Mini
+7. Nest hub
+8. Nest Hub Max
+
+
