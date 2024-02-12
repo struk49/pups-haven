@@ -15,3 +15,11 @@
 I decided to go with a logo and menu at the top of the page. A footer and the contents in the middle. The images used on the home page i made myself using Canva. The hpme page has a paragragh about the product,. Some images shoeing more information about the product and an offer. 
 ![Screenshot 2024-02-12 14 38 13](https://github.com/struk49/kpflexboxchallengeone/assets/115653854/95630c73-71cd-4f63-89f5-bfac872d9848)
 
+![Screenshot 2024-02-12 14 42 08](https://github.com/struk49/kpflexboxchallengeone/assets/115653854/d0061266-2e2d-48ca-8eb6-d3e7ccee4532)
+
+![image](https://github.com/struk49/kpflexboxchallengeone/assets/115653854/7d0998b8-d012-41ed-8de6-b06cdfcbd535)
+
+![Screenshot 2024-02-12 14 45 05](https://github.com/struk49/kpflexboxchallengeone/assets/115653854/12e33043-3b36-4a70-b11c-954193564793)
+
+![image](https://github.com/struk49/kpflexboxchallengeone/assets/115653854/238c5c21-0537-412d-8d81-e42560f8126e)
+
