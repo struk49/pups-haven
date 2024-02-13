@@ -42,8 +42,3 @@ I decided to go with a logo and menu at the top of the page. A footer and the co
 Colour scheme
 The colur scheme is fluent throughout the site. 
 Brown, black, white and bisque are the colours used. 
-
-
-
-
-
