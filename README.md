@@ -57,6 +57,20 @@ Brown, black, white and bisque are the colours used.
 1. HTML5
 2. CSS3
 
+### Google fonts
+1, I have used IBM Plex Mono font from google fonts.
+
+### Git
+1. Git was used for version control by utilizing the Gitpod terminal to commit and push to GiyHub.
+
+### GitHub
+1. GitHub is used to share my project code, when i push my code from Git
+
+
+
+ 
+
+
 
 
 
