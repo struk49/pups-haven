@@ -71,6 +71,13 @@ Brown, black, white and bisque are the colours used.
 
  ```I also done some manual testing of the site. Here are some screenshots of some of the manual testing i've done.```
 
+ ### Here is a screenshot of the sign up page and a screenshot of the home page. I wanted to check if the link on the logo worked and sent me baxk to the home page.
+ ### Screenshot of sign up page.
+ ![Screenshot 2024-02-15 11 36 03](https://github.com/struk49/kpflexboxchallengeone/assets/115653854/37dbda2d-8b53-4d9b-94e4-3e68f5893650)
+
+### Screenshot of the home after i clicked the logo  on the sign up page. 
+![Screenshot 2024-02-15 11 36 27](https://github.com/struk49/kpflexboxchallengeone/assets/115653854/710cd892-caee-4209-b323-7a5acc32ff31)
+
 
 
 
