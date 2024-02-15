@@ -66,6 +66,12 @@ Brown, black, white and bisque are the colours used.
 ### GitHub
 1. GitHub is used to share my project code, when i push my code from Git
 
+### Testing 
+1. I used W3c markup validator ans W3c css validator to check the code in my project. Both HTML5 and CSS3 passed. 
+
+ ```I also done some manual testing of the site. Here are some screenshots of some of the manual testing i've done.```
+
+
 
 
  
