@@ -46,8 +46,22 @@ Brown, black, white and bisque are the colours used.
 ### Typography
 1. The font used throughout the site is IBM plex mono.
 
-## Imagery
+### Imagery
 1. All images on the site were created by me using canva, except the image on the sign up page. This image is from unsplash and  is by Hannah Lim.
+
+### Features
+1. Responsive on some devices.
+2. Interaxtive elemen
+
+### Technologies used
+1. HTML5
+2. CSS3
+
+
+
+
+
+
  
  
 
