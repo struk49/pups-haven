@@ -93,6 +93,18 @@ Brown, black, white and bisque are the colours used.
 ### Then back to the homepage.
 ![Screenshot 2024-02-15 11 36 27](https://github.com/struk49/kpflexboxchallengeone/assets/115653854/8270e006-fd4d-4080-b5b6-421dca5b0886)
 
+### Testing user stories from user experience(UX) section
+```First time user goals```
+1. As a first time user of the site, i woukd like to clearly understand what the purpose of the site is.
+2. When entering the site, users are greeted by the home page. On hte home page there is a navbar with links to other pages. The link are easily readable and the user can see clearly where to find what they are looking for.
+3. The main points of the site can be found by scrolling down the page and clicking the links.
+4. As a first time user i want to be able to navigate through the site to find what i'm looking for.
+5. The site has been designed to be fluid.
+
+
+
+
+
 
 
 
