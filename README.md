@@ -75,8 +75,25 @@ Brown, black, white and bisque are the colours used.
  ### Screenshot of sign up page.
  ![Screenshot 2024-02-15 11 36 03](https://github.com/struk49/kpflexboxchallengeone/assets/115653854/37dbda2d-8b53-4d9b-94e4-3e68f5893650)
 
-### Screenshot of the home after i clicked the logo  on the sign up page. 
+### Screenshot of the home page after i clicked the logo  on the sign up page. 
 ![Screenshot 2024-02-15 11 36 27](https://github.com/struk49/kpflexboxchallengeone/assets/115653854/710cd892-caee-4209-b323-7a5acc32ff31)
+
+### The link on the logo works and sends the user back to the home page.
+
+### I tested the links to see if they work and sent to the right page.
+### Here is a screenshot of the homepage and i want to know if the link for the post will work
+![Screenshot 2024-02-15 11 36 27](https://github.com/struk49/kpflexboxchallengeone/assets/115653854/ea17f0bb-936d-4494-9ff2-7f6e949afa0b)
+
+### This is a screenshot of the post page after clicking the link on the homepage.
+.![Screenshot 2024-02-15 11 48 32](https://github.com/struk49/kpflexboxchallengeone/assets/115653854/c8334698-73fe-408c-844a-91ee60b50eea)
+
+### This is a screenshot of the sign up page after clcking the link on the post page.
+![Screenshot 2024-02-15 11 36 03](https://github.com/struk49/kpflexboxchallengeone/assets/115653854/58599fc4-fd68-4a39-8d94-c5ea33d69757)
+
+### Then back to the homepage.
+![Screenshot 2024-02-15 11 36 27](https://github.com/struk49/kpflexboxchallengeone/assets/115653854/8270e006-fd4d-4080-b5b6-421dca5b0886)
+
+
 
 
 
