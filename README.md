@@ -43,7 +43,11 @@ Colour scheme
 The colur scheme is fluent throughout the site. 
 Brown, black, white and bisque are the colours used.
 
-## Typography
+### Typography
 1. The font used throughout the site is IBM plex mono.
+
+## Imagery
+1. All images on the site were created by me using canva, except the image on the sign up page. This image is from unsplash and  is by Hannah Lim.
+ 
  
 
