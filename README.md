@@ -41,4 +41,9 @@ I decided to go with a logo and menu at the top of the page. A footer and the co
 ### Design
 Colour scheme
 The colur scheme is fluent throughout the site. 
-Brown, black, white and bisque are the colours used. 
+Brown, black, white and bisque are the colours used.
+
+## Typography
+1. The font used throughout the site is IBM plex mono.
+ 
+
