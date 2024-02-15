@@ -102,6 +102,10 @@ Brown, black, white and bisque are the colours used.
 5. The site has been designed to be fluid.
 
 
+### Deployment 
+1. Deplyed to GitHub pages.
+
+
 
 
 
